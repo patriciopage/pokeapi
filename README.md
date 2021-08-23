@@ -5,5 +5,5 @@
 curl http://[server]/pokemon/charmander
 
 ### Buscar varios:
-http://[server]/pokemon/?limit=10&offset=0
+curl http://[server]/pokemon/?limit=10&offset=0
 
